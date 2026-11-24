@@ -18,3 +18,8 @@ Aplikasi frontend daftar tugas menggunakan React.js dan React State untuk mengel
 1. Install dependensi:
    ```bash
    npm install
+   ```
+
+2. Jalankan server pengembangan:
+   ```bash
+   npm run dev
